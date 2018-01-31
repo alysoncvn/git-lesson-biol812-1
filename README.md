@@ -8,3 +8,5 @@ This is the demo git repository for the class
 print ('some demo R code')
 ```
 # Hello from ALY
+
+*This is a modification by Kevin
