@@ -7,3 +7,4 @@ This is the demo git repository for the class
 ```{r}
 print ('some demo R code')
 ```
+# Hello from ALY
